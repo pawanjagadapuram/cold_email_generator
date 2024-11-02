@@ -8,7 +8,7 @@ An AI-powered tool that automatically generates personalized cold emails for job
 - 📝 Generates personalized cold emails based on job descriptions
 - 🔗 Intelligently matches your portfolio projects with job requirements
 - 💼 Maintains a vector database of your portfolio for efficient matching
-- 🎯 Utilizes LLM for accurate job parsing and email generation
+- 🎯 Utilizes "llama-3.1-70b-versatile" - LLM for accurate job parsing and email generation
 
 ## Prerequisites
 
